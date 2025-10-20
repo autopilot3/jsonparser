@@ -1,4 +1,3 @@
 module github.com/autopilot3/jsonparser
 
-go 1.18
-
+go 1.25
