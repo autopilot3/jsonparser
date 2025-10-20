@@ -247,7 +247,6 @@ Compared libraries:
 * https://github.com/mreiferson/go-ujson
 * https://github.com/ugorji/go/codec
 * https://github.com/pquerna/ffjson
-* https://github.com/mailru/easyjson
 * https://github.com/buger/jsonparser
 
 #### TLDR
