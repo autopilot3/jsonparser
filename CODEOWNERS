@@ -4,7 +4,7 @@
 
 # BEGIN ap3-github-repo-bot managed
 /CODEOWNERS @autopilot3/ops
-/.buildkite/pipeline.yml @autopilot3/ops
+/.buildkite/pipeline.yml @autopilot3/ops @autopilot3/ap3-ops-bots
 /.github/ @autopilot3/ops
 /iam/ @autopilot3/ops
 /terraform/ @autopilot3/ops
